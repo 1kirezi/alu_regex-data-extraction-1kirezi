@@ -1,8 +1,3 @@
-# git clone https://github.com/your-username/your-repository.git
-# git add divi.py
-# git commit -m "Extracted email, currency, time, and hashtags from text"
-# git push
-
 text = """
 Congrats! $2,000.00 was sent to emily.dev@alu.edu at 09:30 AM. #RichQueen
 """
